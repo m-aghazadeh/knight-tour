@@ -7,11 +7,11 @@ The UI is built with **shadcn/ui** and **Tailwind CSS**, giving a clean and mode
 ---
 
 ## Features
-- 🎯 Interactive chessboard (pick any start square)  
-- ⚡ Warnsdorff's heuristic for efficient pathfinding  
-- 🎞️ Step-by-step playback with adjustable speed  
-- 📏 Configurable board size (5×5 up to 12×12)  
-- 🖥️ Built with React, TypeScript, Vite, and shadcn/ui  
+- 🎯 Interactive chessboard (pick any start square)
+- ⚡ Warnsdorff's heuristic for efficient pathfinding
+- 🎞️ Step-by-step playback with adjustable speed
+- 📏 Configurable board size (5×5 up to 12×12)
+- 🖥️ Built with React, TypeScript, Vite, and shadcn/ui
 
 ---
 
@@ -30,19 +30,21 @@ npm run dev
 
 ## Demo
 
-1. Pick a **starting square**.  
-2. Click **Compute tour** to generate the knight’s path.  
-3. Use **Play/Pause** to watch the tour step by step.  
+Live Demo: [https://m-aghazadeh.github.io/knight-tour/](https://m-aghazadeh.github.io/knight-tour/)
+
+1. Pick a **starting square**.
+2. Click **Compute tour** to generate the knight’s path.
+3. Use **Play/Pause** to watch the tour step by step.
 4. Adjust board size or playback speed anytime.
 
 ---
 
 ## Tech Stack
-- React + TypeScript  
-- Vite  
-- Tailwind CSS  
-- shadcn/ui  
-- Radix Primitives  
+- React + TypeScript
+- Vite
+- Tailwind CSS
+- shadcn/ui
+- Radix Primitives
 
 ---
 
